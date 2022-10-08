@@ -46,6 +46,13 @@ __Strong text__
 ___Strong emphasized text___
 
     Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
+    
+    
+Linking an image *(&#32; represents spaces in between name of file)*
+
+    Markup :  [Linked Image Name](![image](Pasted&#32;image&#32;20220903150340.png) "Linked Image Title")
+    
+
 
 [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
