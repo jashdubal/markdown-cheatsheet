@@ -2,9 +2,9 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
-Linking an image *(```&#32;``` represents spaces in between name of file)*
+Linking an image viewable image (```&#32;``` represents spaces in between name of file)
 
-    Markup :  [Linked Image Name](![image](Pasted&#32;image&#32;20220903150340.png) "Linked Image Title")
+    Markup :  ![Linked Image Name](Pasted&#32;image&#32;20220903150340.png "Linked Image Title")
 
 # Heading 1 #
 
