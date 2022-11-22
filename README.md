@@ -1,16 +1,6 @@
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
-- - - - 
-Adding stats to readme
-
-
-Adding frameworks to readme
-* [![React][React.js]][React-url]
-
-[![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
-[![Socket.io](https://socket.io/images/logo.svg)](https://socket.io/)
-
 
 Linking an image viewable image (```&#32;``` represents spaces in between name of file)
 
