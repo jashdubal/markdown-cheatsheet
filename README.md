@@ -2,6 +2,22 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
+Adding stats to readme
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+Adding frameworks to readme
+[![React][React.js]][React-url]
+[![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
+[![Socket.io](https://socket.io/images/logo.svg)](https://socket.io/)
+
+
 Linking an image viewable image (```&#32;``` represents spaces in between name of file)
 
     Markup :  ![Linked Image Name](Pasted&#32;image&#32;20220903150340.png "Linked Image Title")
