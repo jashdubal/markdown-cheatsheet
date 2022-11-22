@@ -4,13 +4,6 @@ Markdown Cheatsheet<a name="TOP"></a>
 - - - - 
 Adding stats to readme
 
-[![Contributors][contributors-shield]][[contributors-url](https://github.com/othneildrew/Best-README-Template/graphs/contributors)]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 Adding frameworks to readme
 [![React][React.js]][React-url]
