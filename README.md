@@ -3,7 +3,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
 - - - - 
 Adding stats to readme
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
