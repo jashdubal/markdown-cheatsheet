@@ -6,7 +6,8 @@ Adding stats to readme
 
 
 Adding frameworks to readme
-[![React][React.js]][React-url]
+* [![React][React.js]][React-url]
+
 [![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
 [![Socket.io](https://socket.io/images/logo.svg)](https://socket.io/)
 
